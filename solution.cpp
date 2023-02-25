@@ -3,7 +3,6 @@
 using namespace std;
 
 //Add Dp feature later
-vector<vector<long long>> dp;
 
 
 //w[i] -> item i's weight
