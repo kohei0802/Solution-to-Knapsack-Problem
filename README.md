@@ -9,14 +9,14 @@ Used static attribute to store the maximum value in heap during recursion
 再帰関数において、staticを利用して最大値をヒープに保存
 
 <b>Expected input: </b>
-N W
-p1 w1
-p2 w2
-....
-....
-pn wn
-
-N -> No. of items
-W -> Weight capacity of knapsack
-pi -> value for item i
-wi -> weight for item i
+N W <br>
+p1 w1 <br>
+p2 w2 <br>
+.... <br>
+.... <br>
+pn wn<br>
+<br>
+N -> No. of items <br>
+W -> Weight capacity of knapsack <br>
+pi -> value for item i <br>
+wi -> weight for item i <br>
